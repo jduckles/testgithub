@@ -1,3 +1,5 @@
+![Some Otago Graduates](otago001056.jpg)
+
 # testgithub
 Learning about GitHub December 18, 2018
 
