@@ -7,6 +7,8 @@ Learning about GitHub December 18, 2018
 
 This is some body text
 
+[Testing Page](testing.html)
+
 ## This is a header 2
 
 * A list
